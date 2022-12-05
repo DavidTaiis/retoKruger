@@ -22,7 +22,7 @@ INSERT INTO public.usuario(
 	VALUES (1, 'Administrador', 'admin', null, 'admin', 'admin@admin.com', null, null, null, null, 'Administrador', 1, null, null);
 
 
-Volvemos a ejecutar el proyecto
+Ejecutar nuevamente el proyecto
 
 Dirigirse a la siguiente dirección para pruebas de Apis
 
