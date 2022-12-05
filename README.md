@@ -1,8 +1,12 @@
 # retoKruger
-Abrir el proyecto con intellij IDEA actualizar dependencias
-Crear base de datos con nombre retoKruger
+Abrir el proyecto con intelliJ IDEA actualizar dependencias
+
+En Postgresql crear base de datos con nombre retoKruger
+
 En el archivo application.propierties especificar usuario y contraseña de base de datos
+
 Ejecutar el proyecto para crear las tablas en base de datos
+
 Ejecutar en la base de datos los siguientes querys para creación roles y usuario administrador
 
 INSERT INTO public.rol(
@@ -21,4 +25,5 @@ INSERT INTO public.usuario(
 Volvemos a ejecutar el proyecto
 
 Dirigirse a la siguiente dirección para pruebas de Apis
+
 http://localhost:8080/swagger-ui/index.html
