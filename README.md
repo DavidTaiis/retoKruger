@@ -27,3 +27,5 @@ Ejecutar nuevamente el proyecto
 Dirigirse a la siguiente dirección para pruebas de Apis
 
 http://localhost:8080/swagger-ui/index.html
+
+Nota: los filtros se encuentran en el Api findAll, para la fecha es necesario que tenga este formato 2022-10-20/2022-11-30
